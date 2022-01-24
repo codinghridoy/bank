@@ -1,0 +1,35 @@
+body{
+    padding: 100px;
+}
+.sumit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
+#tranjection-area{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightcoral;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: 0 20px;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px black;
+   
+    color: white;
+}
+.niche{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 50px;
+    padding: 20px;
+}
